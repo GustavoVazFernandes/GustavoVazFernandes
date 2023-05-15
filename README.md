@@ -1,6 +1,7 @@
 <h1> Wellcome to my portfolio! </h1>
  
-<h2> My name is Gustavo Vaz Fernandes and my nickname is Vaz, i'm a developer in learning. </h2>
+<h2> My name is Gustavo Vaz Fernandes and my nickname is Vaz. <br>
+ I'm a developer in learning. </h2>
 
 <h3> Languages i've used to develop: </h3>
 
@@ -30,6 +31,6 @@
 
 <div style="display: inline_block">
   <h3> Contact: </h3>
-   <a href="https://www.linkedin.com/in/iago-fernandes-083309207/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"  width="60" height="60" target="_blank"></a>
+   <a href="https://www.linkedin.com/in/gustavo-vaz-fernandes-31520a199/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"  width="60" height="60" target="_blank"></a>
    <a href = "mailto:gustavo.vaz@ufvjm.edu.br"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="60" height="60" target="_blank"></a>
 </div> 
