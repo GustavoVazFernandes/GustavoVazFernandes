@@ -1,4 +1,4 @@
-<h1> Wellcome to my Git! </h1>
+<h1> Welcome to my Git! </h1>
  
 <h2> My name is Gustavo Vaz Fernandes and my nickname is Vaz. <br>
  I'm a developer in learning. </h2>
