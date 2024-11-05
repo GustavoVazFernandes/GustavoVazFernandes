@@ -1,18 +1,16 @@
 <h1> Welcome to my Git! </h1>
  
-<h2> My name is Gustavo Vaz Fernandes and my nickname is Vaz. <br>
- I'm a junior developer. </h2>
+<h2> My name is Gustavo Vaz Fernandes. <br>
+ I'm a developer. </h2>
 
 <h3> Languages i've used to develop: </h3>
 
-<div style="left">
-<img alt="C++" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="60" height="60" />    
+<div style="left">   
 <img alt="Delphi" src="https://upload.wikimedia.org/wikipedia/en/b/b2/Embarcadero_Delphi_10.4_Sydney_Product_Logo_and_Icon.svg" width="60" height="60"/>
-<img alt="HTML" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="60" height="60" />
 <img alt="SQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="60" height="60" />         
 <img alt="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="60" height="60" />
 <img alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" height="60" />
-<img alt="Css" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="60" height="60" />       
+<img alt="C++" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="60" height="60" /> 
 </div> 
 
 
